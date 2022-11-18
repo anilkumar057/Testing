@@ -3,6 +3,7 @@ public class HelloWorld{
     display();
   }
   static void display(){
-    System.out.println("hello world");
+    String message="hello world";
+    System.out.println(message);
   }
 }
